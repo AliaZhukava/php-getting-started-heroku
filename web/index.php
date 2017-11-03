@@ -6,20 +6,7 @@
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<script src="js/jquery-1.11.1.min.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="js/responsiveslides.min.js"></script>
- <script>
-    $(function () {
-      $("#slider").responsiveSlides({
-      	auto: true,
-      	nav: true,
-      	speed: 500,
-        namespace: "callbacks",
-        pager: true,
-      });
-    });
-  </script>
+
 	<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
 	<script src="js/wow.min.js"></script>
 		<script>
@@ -295,6 +282,20 @@
 				</div>
 			<p>&copy; 2017 BeInShape Gym . All rights reserved | Design by Alia Zhukava</p>
 		</div>
-	</div>
+  </div>
+<script async src="js/jquery-1.11.1.min.js"></script>
+<script async src="js/bootstrap.js"></script>
+<script async src="js/responsiveslides.min.js"></script>
+ <script>
+    $(function () {
+      $("#slider").responsiveSlides({
+      	auto: true,
+      	nav: true,
+      	speed: 500,
+        namespace: "callbacks",
+        pager: true,
+      });
+    });
+  </script>
 </body>
 </html>
