@@ -29,18 +29,18 @@
 <body>
 	<nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
-        <div class="navbar-header wow fadeInLeft animated animated" data-wow-delay="0.4s">
+        <div class="navbar-header wow fadeInLeft animated" data-wow-delay="0.4s">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Меню</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-         <h1><a class="navbar-brand" href="index.html"> BeInShape Gym</a></h1>
+         <h1><a class="navbar-brand" href="index.php"> BeInShape Gym</a></h1>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-			<ul class="nav navbar-nav navbar-right wow fadeInRight animated animated" data-wow-delay="0.4s">
-				<li class="active"><a class="nav-in" href="index.html"><span data-letters="Главная">Главная</span></a></li>
+			<ul class="nav navbar-nav navbar-right wow fadeInRight animated" data-wow-delay="0.4s">
+				<li class="active"><a class="nav-in" href="index.php"><span data-letters="Главная">Главная</span></a></li>
 				<li ><a class="nav-in" href="about.html"><span data-letters="О нас">О нас</span></a> </li>
 				<li><a class="nav-in" href="trainers.html"><span data-letters="Тренеры">Тренеры</span></a></li>
 				<li><a class="nav-in" href="photo.html"><span data-letters="Галерея">Галерея</span></a></li>
@@ -56,10 +56,10 @@
 					<ul class="rslides" id="slider">
 						 <li>	 
 							<div class="caption">
-							<div class="col-md-6 cap-left wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-6 cap-left wow fadeInDownBig animated" data-wow-delay="0.4s">
 								<p>Добро пожаловать на официальный сайт нашего тренажерного зала BeInShape Gym!</p>
 							</div>
-							<div class="col-md-6 cap-right wow fadeInUpBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-6 cap-right wow fadeInUpBig animated" data-wow-delay="0.4s">
 								<h3>Уверенность &mdash; твоя суперсила!</h3>
 							</div>
 							<div class="clearfix"></div>
@@ -67,10 +67,10 @@
 						</li>
 						 <li>	 
 							<div class="caption">
-							<div class="col-md-6 cap-left wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-6 cap-left wow fadeInDownBig animated" data-wow-delay="0.4s">
 								<p>Не упустите свою возможность стать лучше! Если Ваша мечта &mdash; идеальное тело, то мы вместе можем ее осуществить!</p>
 							</div>
-							<div class="col-md-6 cap-right wow fadeInUpBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-6 cap-right wow fadeInUpBig animated" data-wow-delay="0.4s">
 								<h3>Все в твоих руках. Главное &mdash; желание!</h3>
 							</div>
 								<div class="clearfix"></div>
@@ -86,7 +86,7 @@
 						<div class="container">
 							<h2>Тренируйся с нами</h2>
 							<div class="train-grids">
-								<div class="col-md-3 train-grid wow fadeInLeft animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInLeft animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e1.png"/>
@@ -95,7 +95,7 @@
 										<p>Это несомненная польза для здоровья в простой и приятной форме.</p>
 									</div>
 								</div>
-								<div class="col-md-3 train-grid wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInDownBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e2.png"/>
@@ -104,7 +104,7 @@
 										<p>В нашем зале большой запас гантелей от 0,5 до 30 кг. Каждый найдет свою пару на любой вес и цвет.</p>
 									</div>
 								</div>
-								<div class="col-md-3 train-grid wow fadeInUpBig animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInUpBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e3.png"/>
@@ -113,7 +113,7 @@
 										<p>Если Вы метите в тяжеловесы, то Вы всегда найдете в нашем зале поддержку и подстраховку</p>
 									</div>
 								</div>
-								<div class="col-md-3 train-grid wow fadeInRight animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInRight animated" data-wow-delay="0.4s">
 								<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e4.png"/>
@@ -125,7 +125,7 @@
 								<div class="clearfix"></div>
 							</div>
 							<div class="train-grids">
-								<div class="col-md-3 train-grid wow fadeInLeft animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInLeft animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e5.png"/>
@@ -134,7 +134,7 @@
 										<p>При похудении никак не обойтись без кардиотренировок. У нас тренажеры на любой вкус.</p>
 									</div>
 								</div>
-								<div class="col-md-3 train-grid wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInDownBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e6.png"/>
@@ -143,7 +143,7 @@
 										<p>Подтягивайтесь на перекладине &mdash; тянитесь к вершинам и своей мечте! Все обязательно получится!</p>
 									</div>
 								</div>
-								<div class="col-md-3 train-grid wow fadeInUpBig animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInUpBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e7.png"/>
@@ -152,7 +152,7 @@
 										<p>Прыжки со скакалкой тренируют дыхательную систему, укрепляют сердце и сосуды. </p>
 									</div>
 								</div>
-								<div class="col-md-3 train-grid wow fadeInRight animated animated" data-wow-delay="0.4s">
+								<div class="col-md-3 train-grid wow fadeInRight animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
 											<img src="images/e8.png"/>
@@ -168,7 +168,7 @@
 				<div class="fit-section w3l-layouts">
 					<div class="container">
 						<div class="fit-grids">
-							<div class="col-md-4 fit-grid wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-4 fit-grid wow fadeInDownBig animated" data-wow-delay="0.4s">
 								<div class="fit-left hvr-bounce-to-bottom">
 									<h3>Режим работы</h3>
 									<ul>
@@ -178,10 +178,10 @@
 									</ul>
 								</div>
 							</div>
-							<div class="col-md-4 fit-grid wow fadeInUpBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-4 fit-grid wow fadeInUpBig animated" data-wow-delay="0.4s">
 								<img src="images/f2.jpg" class="img-responsive" alt=""/>
 							</div>
-							<div class="col-md-4 fit-grid wow fadeInRight animated animated" data-wow-delay="0.4s">
+							<div class="col-md-4 fit-grid wow fadeInRight animated" data-wow-delay="0.4s">
 								<div class="fit-right hvr-bounce-to-right">
 									<h3>Индивидуальные занятия с тренером</h3>
 									<p>Инструктор не только будет контролировать выполнение вами заданий, но и составит для вас личную программу. Он оценит вашу физическую форму, вычислит слабые и сильные места. Ваш личный тренер даст полезные рекомендации относительно рациона, чтобы вы максимально быстро начали замечать позитивные изменения в фигуре. </p>
@@ -192,11 +192,11 @@
 						<div class="fit-grids1">
 							<div class="clearfix"></div>
 						</div>
-						<div class="fit-grids wow fadeInLeft animated animated" data-wow-delay="0.4s">
+						<div class="fit-grids wow fadeInLeft animated" data-wow-delay="0.4s">
 						<div class="col-md-4 fit-grid">
 								<img src="images/f1.jpg" class="img-responsive" alt=""/>
 							</div>
-							<div class="col-md-4 fit-grid wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-4 fit-grid wow fadeInDownBig animated" data-wow-delay="0.4s">
 								<div class="fit-left hvr-bounce-to-bottom">
 									<h3>Режим работы</h3>
 									<ul>
@@ -206,7 +206,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="col-md-4 fit-grid wow fadeInRight animated animated" data-wow-delay="0.4s">
+							<div class="col-md-4 fit-grid wow fadeInRight animated" data-wow-delay="0.4s">
 								<div class="fit-right hvr-bounce-to-right">
 									<h3>CrossFit</h3>
 									<p>Это экстремальная система общей физической подготовки, основанная на чередующихся, иногда случайным образом, базовых движениях из различных видов спорта (гиревой спорт, тяжёлая атлетика, спортивная гимнастика, гребля, легкая атлетика и т.д.), выполняемых с высокой интенсивностью. Лучше самому попробовать. Приходите на бесплатную тренировку!</p>
@@ -215,13 +215,13 @@
 							<div class="clearfix"></div>
 						</div>
 						<div class="fit-grids1">
-						<div class="col-md-4 fit-grid1 hvr-bounce-to-bottom wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+						<div class="col-md-4 fit-grid1 hvr-bounce-to-bottom wow fadeInDownBig animated" data-wow-delay="0.4s">
 								<div class="fit-right">
 									<h3>Fitness</h3>
 									<p>Тренажерный зал только для мужчин? Чушь! В нашем зале опытные тренеры подберут индивидуальный план тренировок подходящий каждой представительнице прекрасного пола. </p>
 								</div>
 							</div>
-							<div class="col-md-8 fit-grid2 wow fadeInUpBig animated animated" data-wow-delay="0.4s">
+							<div class="col-md-8 fit-grid2 wow fadeInUpBig animated" data-wow-delay="0.4s">
 								<img src="images/f4.jpg" class="img-responsive" alt="Image"/>
 							</div>
 							<div class="clearfix"></div>
@@ -231,7 +231,7 @@
 					<div class="benefits w3l">
 						<div class="container">
 							<div class="benefits-grids">
-								<div class="col-md-6 benefits-grid wow fadeInLeft animated animated" data-wow-delay="0.4s">
+								<div class="col-md-6 benefits-grid wow fadeInLeft animated" data-wow-delay="0.4s">
 									<h3>Преимущества</h3>
 									<div class="benefit-top">
 										<div class="benefit-left">
@@ -269,7 +269,7 @@
 										<div class="clearfix"></div>
 									</div>
 								</div>
-								<div class="col-md-6 benefits-grid1 wow fadeInRight animated animated" data-wow-delay="0.4s">
+								<div class="col-md-6 benefits-grid1 wow fadeInRight animated" data-wow-delay="0.4s">
 									<form action="#" method="post">
 										<input type="text" name="name" placeholder="ФИО" required>
 										<input type="text" name="email" class="email" placeholder="Email" required>
@@ -285,7 +285,7 @@
 
 			</div>
 		</div>
-	<div class="copy-section wow fadeInDownBig animated animated" data-wow-delay="0.4s">
+	<div class="copy-section wow fadeInDownBig animated" data-wow-delay="0.4s">
 		<div class="container">
 				<div class="social-icons">
 					<a href="#"><i class="icon"></i></a>
