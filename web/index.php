@@ -222,7 +222,7 @@
 								</div>
 							</div>
 							<div class="col-md-8 fit-grid2 wow fadeInUpBig animated animated" data-wow-delay="0.4s">
-								<img src="images/f4.jpg" class="img-responsive" alt=""/>
+								<img src="images/f4.jpg" class="img-responsive" alt="Image"/>
 							</div>
 							<div class="clearfix"></div>
 						</div>
