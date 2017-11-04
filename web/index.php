@@ -76,7 +76,7 @@
 								<div class="col-md-3 train-grid wow fadeInLeft animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e1.png"/>
+											<img src="images/e1.png" alt="Групповые занятия">
 										</div>
 										<h4>Групповые тренировки</h4>
 										<p>Это несомненная польза для здоровья в простой и приятной форме.</p>
@@ -85,7 +85,7 @@
 								<div class="col-md-3 train-grid wow fadeInDownBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e2.png"/>
+											<img src="images/e2.png"alt="Гантели">
 										</div>
 										<h4>Гантели</h4>
 										<p>В нашем зале большой запас гантелей от 0,5 до 30 кг. Каждый найдет свою пару на любой вес и цвет.</p>
@@ -94,7 +94,7 @@
 								<div class="col-md-3 train-grid wow fadeInUpBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e3.png"/>
+											<img src="images/e3.png"alt="Штанга">
 										</div>
 										<h4>Штанга</h4>
 										<p>Если Вы метите в тяжеловесы, то Вы всегда найдете в нашем зале поддержку и подстраховку</p>
@@ -103,7 +103,7 @@
 								<div class="col-md-3 train-grid wow fadeInRight animated" data-wow-delay="0.4s">
 								<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e4.png"/>
+											<img src="images/e4.png"alt="Стрейчинг">
 										</div>
 										<h4>Стрейчинг</h4>
 										<p>После тренировки обязательно нужно растянуть мышцы! Они будут Вам благодарны.</p>
@@ -115,7 +115,7 @@
 								<div class="col-md-3 train-grid wow fadeInLeft animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e5.png"/>
+											<img src="images/e5.png"alt="Кардио">
 										</div>
 										<h4>Кардио</h4>
 										<p>При похудении никак не обойтись без кардиотренировок. У нас тренажеры на любой вкус.</p>
@@ -124,7 +124,7 @@
 								<div class="col-md-3 train-grid wow fadeInDownBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e6.png"/>
+											<img src="images/e6.png" alt="Подтягивания">
 										</div>
 										<h4>Подтягивания</h4>
 										<p>Подтягивайтесь на перекладине &mdash; тянитесь к вершинам и своей мечте! Все обязательно получится!</p>
@@ -133,7 +133,7 @@
 								<div class="col-md-3 train-grid wow fadeInUpBig animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e7.png"/>
+											<img src="images/e7.png" alt="Подтягивания">
 										</div>
 										<h4>Скакалка </h4>
 										<p>Прыжки со скакалкой тренируют дыхательную систему, укрепляют сердце и сосуды. </p>
@@ -142,7 +142,7 @@
 								<div class="col-md-3 train-grid wow fadeInRight animated" data-wow-delay="0.4s">
 									<div class="train-top hvr-bounce-to-right">
 										<div class="train-img">
-											<img src="images/e8.png"/>
+											<img src="images/e8.png" alt="Скакалка">
 										</div>
 										<h4>Жим от груди </h4>
 										<p>Если вы хотите оформить мышцы груди – жим в тренажёре идеально Вам подойдёт.</p>
@@ -260,7 +260,7 @@
 									<form action="#" method="post">
 										<input type="text" name="name" placeholder="ФИО" required>
 										<input type="text" name="email" class="email" placeholder="Email" required>
-										<input type="text" name="phone"  class="phone"placeholder="Номер телефона" required>
+										<input type="text" name="phone"  class="phone" placeholder="Номер телефона" required>
 										<textarea name="text area" placeholder="Сообщение"></textarea>
 										<input type="submit" value="Записаться">
 									</form>
@@ -268,10 +268,8 @@
 								<div class="clearfix"></div>
 							</div>
 						</div>
-					</div>
-
-			</div>
-		</div>
+          </div>
+       </div> 
 	<div class="copy-section wow fadeInDownBig animated" data-wow-delay="0.4s">
 		<div class="container">
 				<div class="social-icons">
